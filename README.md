@@ -6,6 +6,8 @@ As part of my 2019 resolution, I will be publishing summaries and notes on Deep 
     - Implementation - https://www.dlology.com/blog/multi-class-classification-with-focal-loss-for-imbalanced-datasets/
     - https://github.com/Tony607/Focal_Loss_Keras/blob/master/src/keras_focal_loss.ipynb
     - FocalLoss, DL, ImbalancedDataset
+- Unsupervised Deep Embedding for Clustering Analysis [[URL](https://arxiv.org/pdf/1511.06335.pdf)]
+    - Unsupervised, DL, Clustering
 ### 2019/01/22
 - VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback [[URL](https://cseweb.ucsd.edu/~jmcauley/pdfs/aaai16.pdf)]
     - CollaborativeFiltering, Recommendation, MatrixFactorization
