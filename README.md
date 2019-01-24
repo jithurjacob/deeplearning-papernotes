@@ -5,6 +5,7 @@ As part of my 2019 resolution, I will be publishing summaries and notes on Deep 
 - Focal Loss for Dense Object Detection [[URL](https://arxiv.org/pdf/1708.02002.pdf)]
     - Implementation - https://www.dlology.com/blog/multi-class-classification-with-focal-loss-for-imbalanced-datasets/
     - https://github.com/Tony607/Focal_Loss_Keras/blob/master/src/keras_focal_loss.ipynb
+    - https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/
     - FocalLoss, DL, ImbalancedDataset
 - Unsupervised Deep Embedding for Clustering Analysis [[URL](https://arxiv.org/pdf/1511.06335.pdf)]
     - Unsupervised, DL, Clustering
