@@ -4,6 +4,7 @@ As part of my 2019 resolution, I will be publishing summaries and notes on Deep 
 ### 2019/01/24
 - Focal Loss for Dense Object Detection [[URL](https://arxiv.org/pdf/1708.02002.pdf)]
     - Implementation - https://www.dlology.com/blog/multi-class-classification-with-focal-loss-for-imbalanced-datasets/
+    - https://github.com/Tony607/Focal_Loss_Keras/blob/master/src/keras_focal_loss.ipynb
     - FocalLoss, DL, ImbalancedDataset
 ### 2019/01/22
 - VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback [[URL](https://cseweb.ucsd.edu/~jmcauley/pdfs/aaai16.pdf)]
